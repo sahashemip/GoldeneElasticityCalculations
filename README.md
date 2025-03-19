@@ -9,6 +9,8 @@ The dimer data was obtained using the energy curve method and for a single Au2 d
 For the bulk system, we used a single data point with **σ = 1**.  
 Here, **σ** is inversely proportional to the weighting factor in the fitting process.  
 
+**Note:** By navigating to `"hotbit/examples/AuAu_parametrization"` and editing the `"AuAu.py"` script, the new potential was generated.
+
 The updated `Au_Au_repulsion.par`, which is compatible with goldene, has been uploaded to this repository.
 To use the fitted potential, specify the path in the calculator as follows:
 
