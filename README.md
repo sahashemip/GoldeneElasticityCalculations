@@ -26,4 +26,4 @@ To ensure that the calculations are not affected by the parameters of the **DFTB
 Specifically, we select a **rectangular-shaped cell** for studying strain-energy relationships.  
 We set $$N_b = 5$$ and $$N_a = 2 N_b = 10$$, resulting in a system containing **100 Au atoms**.
 This configuration provides an energy accuracy of **2 meV/atom**.
-<img src="images/cellsize-energy-withunitcell.png" alt="Cell Size vs. Energy Plot with a rectangular unit cell (top view)." width="500">
+<img src="images/cellsize-energy-withunitcell.png" alt="Cell Size vs. Energy Plot with a rectangular unit cell (top view)." width="400">
