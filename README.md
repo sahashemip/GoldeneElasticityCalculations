@@ -67,7 +67,7 @@ The `compute_starin_energy_variations.py` script calculates energy variations fo
 2. **`maximum_strain`**  
    - A float value representing the maximum strain applied.  
    - Typically, up to 20% strain may be considered, but this depends on the specific case.  
-   - In our case, we apply up to **8% strain**.
+   - In our case, we apply up to **8% strain**. A list of strains from -0.08 (compressional) to 0.08 (tensile) with step of 0.01 is applied.
 
 
 
