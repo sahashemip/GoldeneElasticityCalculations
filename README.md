@@ -29,10 +29,22 @@ This configuration provides an energy accuracy of **2 meV/atom**.
 
 <p align="center">
   <img src="images/cellsize-energy-withunitcell.png" 
-       alt="Cell Size vs. Energy Plot with a rectangular unit cell (top view)." 
+       alt="Cell Size vs. potential energy plot with a rectangular unit cell (top view)." 
        width="400">
 </p>
 
 A rectangular conventional cell allows for the study of strain effects along different edges.
 
-### II. Bilayer interlayer distance
+### III. Bilayer interlayer distance
+In a **goldene sheet**, Au atoms experience **strong metallic bonding** within the layers and **weak van der Waals interactions** between the layers.
+We investigated the **interlayer distance dependence** of the **potential energy** in a **bilayer goldene system**.
+The system is made of a **10×10×1 triclinic cell** containing **200 Au atoms**, with a **vacuum size of 30 Å**.  
+Our calculations indicate that the **optimal interlayer distance** is **3.4 Å**.  
+
+<p align="center">
+  <img src="images/distance-energy.png" 
+       alt="Interlayer distance vs. potential energy." 
+       width="400">
+</p>
+
+`We are now confident that the Hotbit parameters are well-configured for accurately calculating energy in what follows.`
