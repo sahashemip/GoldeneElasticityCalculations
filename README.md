@@ -21,7 +21,7 @@ To use the fitted potential, specify the path in the calculator as follows:
 The computed lattice constant is **2.756 Å**, which is close to the **2.684 Å** obtained using the [PBEsol](https://www.vasp.at/wiki/index.php/GGA) functional implemented in [VASP](https://www.vasp.at/).
 For comparison, the [experimentally measured](https://www.nature.com/articles/s44160-024-00518-4) value is **2.62 Å**. 
 
-### II. Potential Energy vs. Cell Size
+### II. Potential energy vs. cell size
 To ensure that the calculations are not affected by the parameters of the **DFTB** method, we use a **conventional cell**.
 Specifically, we select a **rectangular-shaped cell** for studying strain-energy relationships.  
 We set $$N_b = 5$$ and $$N_a = 2 N_b = 10$$, resulting in a system containing **100 Au atoms**.
@@ -32,3 +32,7 @@ This configuration provides an energy accuracy of **2 meV/atom**.
        alt="Cell Size vs. Energy Plot with a rectangular unit cell (top view)." 
        width="400">
 </p>
+
+A rectangular conventional cell allows for the study of strain effects along different edges.
+
+### II. Bilayer interlayer distance
