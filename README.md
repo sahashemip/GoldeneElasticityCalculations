@@ -39,7 +39,7 @@ A rectangular conventional cell allows for the study of strain effects along dif
 In a **goldene sheet**, Au atoms experience **strong metallic bonding** within the layers and **weak van der Waals interactions** between the layers.
 We investigated the **interlayer distance dependence** of the **potential energy** in a **bilayer goldene system**.
 The system is made of a **10×10×1 triclinic cell** containing **200 Au atoms**, with a **vacuum size of 30 &#197;**.  
-Our calculations indicate that the **optimal interlayer distance** is **3.45 &#197;**.  
+Our calculations indicate that the **optimal interlayer distance** is **3.45 &#197;** (which represents the effective thickness of the layer).
 
 <p align="center">
   <img src="images/distance-energy-withcell.png" 
