@@ -69,7 +69,19 @@ The `compute_starin_energy_variations.py` script calculates energy variations fo
    - Typically, up to 20% strain may be considered, but this depends on the specific case.  
    - In our case, we apply up to **8% strain**. A list of strains from -0.08 (compressional) to 0.08 (tensile) with step of 0.01 is applied.
 
+### II. Using `compute_elastic_constants.py`
+The `compute_elastic_constants.py` script calculates the **second derivatives of energy variation** with respect to strain by fitting a **quadratic curve** to the data. 
 
+1. `AXIS` is set the same as before.
+2. Lattice information are manually set in the Python file.
+3. The script reads **strain-energy data** from the `data/` directory.
+4. A **quadratic function** is fitted to the data points.
+5. The second derivative of this function is used to compute **elastic constants** (Look at the 'Goldene' Subsection of **`ElasticityTheories.pdf`**).
+
+<p align="center">
+  <img src="images/goldene.png" 
+       width="600">
+</p>
 
 
 
