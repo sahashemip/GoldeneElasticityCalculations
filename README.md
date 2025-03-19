@@ -42,7 +42,7 @@ The system is made of a **10×10×1 triclinic cell** containing **200 Au atoms**
 Our calculations indicate that the **optimal interlayer distance** is **3.45 &#197;**.  
 
 <p align="center">
-  <img src="images/distance-energy.png" 
+  <img src="images/distance-energy-withcell.png" 
        alt="Interlayer distance vs. potential energy." 
        width="400">
 </p>
