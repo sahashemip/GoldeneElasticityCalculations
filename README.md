@@ -53,6 +53,21 @@ Our calculations indicate that the **optimal interlayer distance** is **3.45 &#1
 The **`ElasticityTheories.pdf`** file provides a detailed explanation of the **theory** and **computational steps** required to calculate the **elastic properties of 2D materials**.  
 Below, we present a **hands-on example (goldene)** to demonstrate the process.
 
+### I. Using `compute_starin_energy_variations.py`
+
+The `compute_starin_energy_variations.py` script calculates energy variations for a range of applied strains. 
+
+#### Important variables to set:
+1. **`AXIS`**  
+   - Defines the strain direction:  
+     - `0` → x-direction  
+     - `1` → y-direction  
+     - `10` → xy-direction  
+
+2. **`maximum_strain`**  
+   - A float value representing the maximum strain applied.  
+   - Typically, up to 20% strain may be considered, but this depends on the specific case.  
+   - In our case, we apply up to **8% strain**.
 
 
 
