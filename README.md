@@ -48,3 +48,13 @@ Our calculations indicate that the **optimal interlayer distance** is **3.45 &#1
 </p>
 
 `We are now confident that the Hotbit parameters are well-configured for accurately calculating energy in what follows.`
+
+## _Elasticity_
+The **`ElasticityTheories.pdf`** file provides a detailed explanation of the **theory** and **computational steps** required to calculate the **elastic properties of 2D materials**.  
+Below, we present a **hands-on example (goldene)** to demonstrate the process.
+
+
+
+
+
+
