@@ -79,8 +79,8 @@ The `compute_elastic_constants.py` script calculates the **second derivatives of
 5. The second derivative of this function is used to compute **elastic constants** (Look at the 'Goldene' Subsection of **`ElasticityTheories.pdf`**).
 
 <p align="center">
-  <img src="images/goldene.png" 
-       width="600">
+  <img src="images/goldene_info.png" 
+       width="1000">
 </p>
 
 
