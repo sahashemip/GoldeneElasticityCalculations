@@ -1,7 +1,6 @@
 from ase.io import read
 from hotbit import Hotbit
 import matplotlib.pyplot as plt
-import numpy as np
 import matplotlib.ticker as ticker
 
 # Enter path to your geometry file.
