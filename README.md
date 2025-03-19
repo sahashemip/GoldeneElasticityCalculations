@@ -18,4 +18,4 @@ To use the fitted potential, specify the path in the calculator as follows:
 tables = {'AuAu': 'path-to-Au_Au_repulsion.par'}
 ```
 The computed lattice constant is **2.756 Å**, which is close to the **2.684 Å** obtained using the [PBEsol](https://www.vasp.at/wiki/index.php/GGA) functional implemented in [VASP](https://www.vasp.at/).
-For comparison, the experimentally measured value is **2.62 Å**. 
+For comparison, the [experimentally measured](https://www.nature.com/articles/s44160-024-00518-4) value is **2.62 Å**. 
